@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="http://feeds.podtrac.com/NVcmZ5ud_yM1" rel="self" type="application/rss+xml" />
+		<itunes:new-feed-url>http://feeds.podtrac.com/NVcmZ5ud_yM1</itunes:new-feed-url>
+		<title>Geeks in Progress</title>
+		<link>http://geeksinprogress.com/</link>
+		<language>en-us</language>
+		<copyright>&#xA9; &amp; &#x2117; 2016 Geeks in Progress</copyright>
+		<managingEditor>chris@geeksinprogress.com (Chris)</managingEditor>
+		<webMaster>chinn@geeksinprogress.com (Michael Chinn)</webMaster>		<!-- Fearless leader! -->
+		<itunes:subtitle>Listen in on the geeks in progress</itunes:subtitle>
+		<itunes:author>Geeks in Progress</itunes:author>
+		<description>Geeks in Progress is a gaming and geek culture podcast, in which we discuss the news of the week and give our take on current trends in the industry.  Releases biweekly!</description>
+		<itunes:owner>
+			<itunes:name>Michael Chinn</itunes:name>
+			<itunes:email>apple@mechinn.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://geeksinprogress.com/files/podcasts/cover2.jpg</url>
+			<title>Geeks in Progress</title>
+			<link>http://geeksinprogress.com/</link>
+		</image>
+		<itunes:image href="http://geeksinprogress.com/files/podcasts/cover2.jpg"/>
+		<itunes:category text="Games &amp; Hobbies">
+			<itunes:category text="Video Games"/>
+		</itunes:category>
+		<itunes:category text="TV &amp; Film"/>
+		<itunes:category text="Games &amp; Hobbies">
+			<itunes:category text="Hobbies"/>
+		</itunes:category>
+		<itunes:explicit>yes</itunes:explicit>
+
+		<item> <!-- EPISODE 37  -->
+			<title>We're Not a Console...Yet...</title>
+			<description>This week on Geeks in Progress: Batman fights Superman, rumors of Playstation 4.5 and Nintendo NX abound, Microsoft wants to cooperate on cross-platform play, The Division breaks sales records, and more!
+
+			The Crew: Matt, Chris, Kurt.</description>
+			<itunes:subtitle>Batman vs Superman, Playstation 4.5, cross-play, Microsoft, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/covers/s01e37_cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e37_WereNotAConsoleYet.mp3" length="76816178" type="audio/mpeg"/>
+			<guid>http://geeksinprogress.com/files/podcasts/1/s01e37_WereNotAConsoleYet.mp3</guid>
+			<pubDate>Mon, 5 April 2016 00:00:00 EST</pubDate>
+			<itunes:duration>1:46:33</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 36  -->
+			<title>Oh God, You're Going To Be One Of Those Smart House People!</title>
+			<description>This week on Geeks in Progress: Microsoft is ending its fixed console hardware, The Division launches, Everquest Next is cancelled, Guild Wars 2's game director leaves the company, and more; we discuss key resellers, and progression systems.
+
+			The Crew: Chris, Kurt, Mikey, and Chinn.</description>
+			<itunes:subtitle>Xbox One becomes a PC, key resellers, The Division launch, and more!</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/covers/s01e36_cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e36_SmartHousePeople.mp3" length="96337995" type="audio/mpeg"/>
+			<guid>http://geeksinprogress.com/files/podcasts/1/s01e36_SmartHousePeople.mp3</guid>
+			<pubDate>Mon, 14 March 2016 00:00:00 EST</pubDate>
+			<itunes:duration>2:13:44</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 35  -->
+			<title>The Action Movie Schlock Version of World War I</title>
+			<description>This week on Geeks in Progress: Yuuuge episode!  Deadpool releases to commercial success (spoilers within), Gametrailers closes, a potential Hideo Kojima/Guillermo del Toro partnership emerges, Battlefield 5 is rumored to be a WWI shooter, Quantum Break comes to PC, we blow a weekend on the Division open Beta, and more! We discuss where Marvel and DC stand as regards movies and television, the current trend of AAA games releasing as unfinished products, and what the hell Microsoft is doing with its exclusives.
+
+			The Youtube video discussed at about 1h34m is Jim Sterling's "Early AAAccess" video which can be found on Youtube here: https://www.youtube.com/watch?v=i6mRRGOwQjM
+
+			The Crew: Matt, Kurt, Moose, and Chinn!</description>
+			<itunes:subtitle>Deadpool, Xbox One exclusivity, The Division open beta, and much more!</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/covers/s01e35_cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e35_SchlockVersionOfWWI.mp3" length="98861126" type="audio/mpeg"/>
+			<guid>http://geeksinprogress.com/files/podcasts/1/s01e35_SchlockVersionOfWWI.mp3</guid>
+			<pubDate>Mon, 29 February 2016 00:00:00 EST</pubDate>
+			<itunes:duration>2:17:06</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 34  -->
+			<title>Galactic Ambulance</title>
+			<description>This week on Geeks in Progress: Matt tells a story, Kurt tells a joke, Chris steals a bit from John Mulaney, The Division launches its closed beta, Steam begins its Lunar New Year sale, and a Kickstarter team blows its budget on hookers and drugs; we discuss the state of early access games, and the games we've played during the podcast's hiatus.
+
+			The crew: Matt, Kurt, Mikey, Chris</description>
+			<itunes:subtitle>The Division, early access, EA, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/covers/s01e34_cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e34_GalacticAmbulance.mp3" length="41641270" type="audio/mpeg"/>
+			<guid>http://geeksinprogress.com/files/podcasts/1/s01e34_GalacticAmbulance.mp3</guid>
+			<pubDate>Mon, 15 February 2016 00:00:00 EST</pubDate>
+			<itunes:duration>1:26:34</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 33  -->
+			<title>This Podcast is Worth...One Quarter Portion!</title>
+			<description>The Sunshine and Frank Podcast is now the Geeks in Progress Podcast!  This week, we give our reviews of Star Wars: the Force Awakens, and discuss other movies releasing or announced in 2016.
+
+			The crew: Matt, Mikey, Kurt, Chris</description>
+			<itunes:subtitle>Star Wars: The Force Awakens</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/covers/s01e33_cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e33_OneQuarterPortion.mp3" length="46654446" type="audio/mpeg"/>
+			<guid>s01e33</guid>
+			<pubDate>Mon, 1 Feb 2016 00:00:00 EST</pubDate>
+			<itunes:duration>1:36:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 32  -->
+			<title>We All Have Our Own Hole</title>
+			<description>This week on Sunshine and Frank: E3 2015!  Bethesda's Fallout 4 gets annouced, Bungie's announcement suffers fallout, Dishonoured 2 gets revealed, FFVII gets a remake, we (finally) get a glimpse at what the Division is all about, and more!
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>E3 2015: Fallout 4, PR troubles, FFVII remake, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e32_E3_2015.mp3" length="55781007" type="audio/mpeg"/>
+			<guid>s01e32</guid>
+			<pubDate>Mon, 29 Jun 2015 00:00:00 EST</pubDate>
+			<itunes:duration>1:55:28</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 31  -->
+			<title>Blood, Sweat, and Midi-chlorians</title>
+			<description>This week on Sunshine and Frank: Evolve gets released, Sony Online Entertainment gets sold to Daybreak, the "New 3DS" comes out, and we look forward to the new Star Wars.
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>Evolve, SOE redux, the new Star Wars, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e31_BloodSweatAndMidichlorians.mp3" length="22104744" type="audio/mpeg"/>
+			<guid>s01e31</guid>
+			<pubDate>Mon, 23 Feb 2015 00:00:00 EST</pubDate>
+			<itunes:duration>0:45:19</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 30  -->
+			<title>He's Not Marvelous, He's DC'ous</title>
+			<description>This week on Sunshine and Frank: Matt loses his sniper rifle, Netflix is rumoured to be working on a Legend of Zelda TV series, Nintendo changes its Youtube policy, and more.
+
+			The crew: Matt, Kaia, Kurt, Chris</description>
+			<itunes:subtitle>Netflix, Nintendo, SOE, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e30_HeIsDCous.mp3" length="34024643" type="audio/mpeg"/>
+			<guid>s01e30</guid>
+			<pubDate>Mon, 9 Feb 2015 00:00:00 EST</pubDate>
+			<itunes:duration>1:10:09</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 29  -->
+			<title>That Time I Spent $65 On A Pretend Spaceship</title>
+			<description>This week on Sunshine and Frank: H1Z1 launches in Early Access, Matt starts a Star Citizen stream, Guild Wars 2 and FFXIV get expansions, Elder Scrolls Online goes buy-to-play; we discuss zombie survival games, betting in esports, and more.
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>H1Z1, MMO expansions, betting in esports, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e29_65DollarPretendSpaceship.mp3" length="55314188" type="audio/mpeg"/>
+			<guid>s01e29</guid>
+			<pubDate>Mon, 26 Jan 2015 00:00:00 EST</pubDate>
+			<itunes:duration>1:54:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 28  -->
+			<title>You, 3 Characters, and a Tree, and Some Stairs</title>
+			<description>This week on Sunshine and Frank: We discuss the games we enjoyed playing in 2014, and the games we look forward to playing in the near future.
+
+			The crew: Matt, Chris, Kurt</description>
+			<itunes:subtitle>Our gaming best and worst of 2014.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e28_2014InReview.mp3" length="60296690" type="audio/mpeg"/>
+			<guid>s01e28</guid>
+			<pubDate>Mon, 5 Jan 2015 00:00:00 EST</pubDate>
+			<itunes:duration>2:04:53</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 27  -->
+			<title>Games Were So Much Cooler When I Was 14</title>
+			<description>This week on Sunshine and Frank: Matt gets an Xbox One, Xbox Live and PSN get DDOS'd by the Lizard Squad, Halo 3 ODST's campaign is getting ported to Xbox One, and more.
+
+			The crew: Matt, Chris, Kurt</description>
+			<itunes:subtitle>Xbox One, Lizard Squad, ODST, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e27_GamesWereMuchCooler.mp3" length="31707626" type="audio/mpeg"/>
+			<guid>s01e27</guid>
+			<pubDate>Mon, 29 Dec 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:05:19</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item> <!-- EPISODE 26  -->
+			<title>I Give You the Jericho...Times Six!</title>
+			<description>This week on Sunshine and Frank: Respawn Entertainment's lead hints future games will be on Steam, Mechwarrior Online finally releases its community warfare patch, the Steam Winter Sale is live, MGSV: Ground  Zeroes releases, Metal Gear Online gets a trailer, and more; we discuss gamification and tabletop gaming.
+
+			The crew: Matt, Chris, Kurt</description>
+			<itunes:subtitle>Community Warfare, Ground Zeroes, gamification, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e26_IGiveYouTheJericho.mp3" length="54125296" type="audio/mpeg"/>
+			<guid>s01e26</guid>
+			<pubDate>Mon, 22 Dec 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:52:01</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item>  <!-- EPISODE 25  -->
+			<title>She's Learned How to Weaponize Her Aura</title>
+			<description>This week on Sunshine and Frank: NJ is a wasteland, RSI talks multi-crew ships and customizable ship interiors, Street Fighter V is announced, Broken Age 2 is delayed to early 2015, Kaia (and Stephen Colbert) defend the new lightsaber, Chris gushes about Child of Light, and much more!
+
+			The crew: Matt, Kaia, Chris</description>
+			<itunes:subtitle>Multi-crew ships, new lightsabers, Child of Light, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e25_WeaponizedHerAura.mp3" length="150122846" type="audio/mpeg"/>
+			<guid>s01e25</guid>
+			<pubDate>Mon, 8 Dec 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:17:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item>  <!-- EPISODE 24  -->
+			<title>Andy Dwyer, Dinosaur Hunter</title>
+			<description>This week on Sunshine and Frank: trailers are released for Jurassic World and some other nerd movie, Nintendo patents emulators for its devices, controversy erupts over a map exploit in Dreamhack Winter's CS:GO tournament, and more; we discuss the future of consoles, new interfaces, and dedicated casters vs pro player casters in esports.
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>Star Wars VII, future consoles, pixelwalking, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e24_AndyDwyerDinoHunter.mp3" length="173149510" type="audio/mpeg"/>
+			<guid>s01e24</guid>
+			<pubDate>Mon, 1 Dec 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:28:54</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item>  <!-- EPISODE 23  -->
+			<title>I AM the boarding craft!</title>
+			<description>This week on Sunshine and Frank: World of Warcraft gains back 2.6 million subscribers, Red vs Blue wraps up its 12th season, Far Cry 4 releases, and more; we discuss Star Citizen's damage model, permadeath, and what happens to your character when you get captured.
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>WoW subscribers, RvB season 12, Far Cry 4, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e23_IAmTheBoardingCraft.mp3" length="183995431" type="audio/mpeg"/>
+			<guid>s01e23</guid>
+			<pubDate>Mon, 24 Nov 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:34:30</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item>  <!-- EPISODE 22  -->
+			<title>Sounds Like You Want to Go to a Rave, Dog</title>
+			<description>This week on Sunshine and Frank: Halo: The MCC has multiplayer issues, CoD: Advanced Warfare releases (and is actually pretty good!), Assassin's Creed Unity has technical issues, Matt buys a flight stick, Blizzard teases Overwatch and Legacy of the Void at Blizzcon, and more!
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>Game release problems, CoD:AW, Blizzcon, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e22_SoundsLikeYouWantToRave.mp3" length="143993058" type="audio/mpeg"/>
+			<guid>s01e22</guid>
+			<pubDate>Mon, 17 Nov 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:13:55</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item>  <!-- EPISODE 21  -->
+			<title>I Fed Bananas To Homeless People</title>
+			<description>This week on Sunshine and Frank: Matt binges on board games and Munchkin Quest, while Chris spends the weekend in DC; new Smash Bros. characters get announced, Microsoft talks plans for Minecraft, Dark Souls switches from GFWL to Steamworks, and more!
+
+			The crew: Matt, Kurt, Chris, Mikey, Kaia</description>
+			<itunes:subtitle>Drunken weekends, boardgames, Microsoft, Minecraft, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e21_BananasToHomelessPeople.mp3" length="128217530" type="audio/mpeg"/>
+			<guid>hs01e21</guid>
+			<pubDate>Mon, 27 Oct 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:05:49</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item>  <!-- EPISODE 20  -->
+			<title>Mikey, Just Keep Pressing B.</title>
+			<description>This week on Sunshine and Frank: Matt and Kaia go to Comic-Con, Chris gets hands-on time with the Oculus Rift, Star Citizen releases landing and planetside footage, Kaia plays Hyrule Warriors, and much more!
+
+			The crew: Matt, Kurt, Chris, Mikey, Kaia</description>
+			<itunes:subtitle>Comiccon, Oculus Rift hands-on, planetside in Star Citizen, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e20_KeepPressingB.mp3" length="218117461" type="audio/mpeg"/>
+			<guid>s01e20</guid>
+			<pubDate>Mon, 13 Oct 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:51:51</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!-- EPISODE 19  -->
+			<title>Aragorn Effs Up Everything: The Game</title>
+			<description>This week on Sunshine and Frank: Matt loves Shadow of Mordor, Kurt plays Destiny, Microsoft demos "room alive", Smash Bros. 4 is released and more!
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>Shadow of Mordor, Destiny, Smash Bros. 4, and more!</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e19_AragornEffsUpEverything.mp3" length="34178781" type="audio/mpeg"/>
+			<guid>s01e19</guid>
+			<pubDate>Mon, 6 Oct 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:10:28</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 18   -->
+			<title>It's Developed By Astronauts</title>
+			<description>This week on Sunshine and Frank: Our shortest episode ever! :S Matt checks out The Vanishing of Ethan Carter, Blizzard cancels it's in-development MMO "Titan", Matt finishes Red Orchestra 2 bootcamp, and more.
+
+			The crew: Matt, Chris</description>
+			<itunes:subtitle>Ethan Carter vanishes, Titan gets cancelled, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e18_DevelopedByAstronauts.mp3" length="42023338" type="audio/mpeg"/>
+			<guid>s01e18</guid>
+			<pubDate>Mon, 29 Sep 2014 00:00:00 EST</pubDate>
+			<itunes:duration>0:21:40</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 17   -->
+			<title>One Star! One Star! Terrible Game! AGHBFBPBP</title>
+			<description>This week on Sunshine and Frank: Microsoft buys Minecraft, Destiny and Archeage are released, Microsoft tests video games played from the web browser, and Guild Wars 2 releases its September 2014 Feature Pack.
+
+			The crew: Matt, Chris</description>
+			<itunes:subtitle>Microsoft buys Minecraft, Destiny releases, GW2 gets September 2014 Feature Pack, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e17_OneStarOneStar.mp3" length="131397492" type="audio/mpeg"/>
+			<guid>s01e17</guid>
+			<pubDate>Mon, 22 Sep 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:07:40</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 16   -->
+			<title>All the Cool Science Fiction is From the 80s</title>
+			<description>This week on Sunshine and Frank: Guardians of the Galaxy is hot shit, Piranha Games takes money and makes a new game, Matt tries Star Citizen, and WB announces a digital distribution platform; we discuss old school sci-fi, space operas, and the Mass Effect trilogy (spoilers!).
+
+			The crew: Matt, Kurt, Kaia, Chris</description>
+			<itunes:subtitle>Guardians of the Galaxy, old sci-fi, space operas, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e16_ScienceFictionFromThe80s.mp3" length="198348294" type="audio/mpeg"/>
+			<guid>s01e16</guid>
+			<pubDate>Mon, 8 Sep 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:42:16</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+		<item>  <!--  EPISODE 15   -->
+			<title>Damn it, Bobby! Shoulder Buttons?</title>
+			<description>This week on Sunshine and Frank: A buyout of Twitch is (actually) confirmed, a Youtuber gets "swatted", Star Citizen has a free trial, Nintendo announces a New 3DS, and Planetary Annihilation gets a release date.  We discuss PC Gamer's top 10 PC games, the appeal of Archeage, and more.
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>Amazon buys Twitch, swatting, New 3DS, Archeage.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e15_ShoulderButtons.mp3" length="45483815" type="audio/mpeg"/>
+			<guid>s01e15</guid>
+			<pubDate>Mon, 1 Sep 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:34:45</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 14   -->
+			<title>You Were the Dee Dee of the Campaign</title>
+			<description>This week on Sunshine and Frank: Matt throws money at RSI, every game developer under the sun gets DDOS'd, Obsidian licenses Pathfinder, and DnD 5e is released.  We discuss digital download statistics, changing gaming demographics, system exclusives, and more.
+
+			The crew: Matt, Kurt, Mike, Chris</description>
+			<itunes:subtitle>Lizard squad, digital downloads, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e14_YouWereTheDeeDee.mp3" length="41450753" type="audio/mpeg"/>
+			<guid>s01e14</guid>
+			<pubDate>Mon, 25 Aug 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:26:20</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 13   -->
+			<title>Put It On Auto-Horsey</title>
+			<description>This week on Sunshine and Frank: Matt gets hooked on Hearthstone, Kurt puts it on Auto-horsey, and Moose disconnects and hopes no one notices.  We discuss our favorite trailers from Gamescom (Quantum Break, Silent Hills, MGS 5, Star Citizen), military mecha anime, moral choice systems, the state of emulators, and more.
+
+			The crew: Matt, Kurt, Chris</description>
+			<itunes:subtitle>Gamescom, moral choice systems, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e13_PutItOnAutoHorsey.mp3" length="47515710" type="audio/mpeg"/>
+			<guid>s01e13</guid>
+			<pubDate>Mon, 18 Aug 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:38:59</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 12   -->
+			<title>We Can't Confirm Or Deny</title>
+			<description>This week on Sunshine and Frank: Matt is on vacation, Twitch.tv adopts a new Youtube-like audio recognition and take-down system, Crytek speaks publicly about its financial situation, Valve soft-launches Source Engine 2, preorders are down and digital sales are up; we discuss Twitch acquisition rumors, Jedi Academy mods, hudless games, and much more!
+
+			The crew: Kurt, Chris</description>
+			<itunes:subtitle>Twitch.tv, Source Engine 2, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e12_WeCantConfirmOrDeny.mp3" length="32165195" type="audio/mpeg"/>
+			<guid>s01e12</guid>
+			<pubDate>Mon, 11 Aug 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:07:00</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<!-- EPISODE 11  -->
+		<!-- We lost this episode. Ooops.-->
+
+
+		<item>  <!--  EPISODE 10   -->
+			<title>Being A Backwards Kid</title>
+			<description>This week on Sunshine and Frank: The consoles can't even handle Star Citizen, a new Thor hits comic books, Occulus Rift is a home for space sims, Super Smash Bros. characters get announced, and more.
+
+			The Mario video that is mentioned @ 00:42:00 - https://www.youtube.com/watch?v=QgACcUDttQ0
+
+			The crew: Matt, Kaia, Kurt</description>
+			<itunes:subtitle>Space sims, Thor, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e10_BeingABackwardsKid.mp3" length="22864529" type="audio/mpeg"/>
+			<guid>s01e10</guid>
+			<pubDate>Mon, 28 Jul 2014 00:00:00 EST</pubDate>
+			<itunes:duration>00:47:38</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 9   -->
+			<title>A Two Dollar Piece of Cardboard</title>
+			<description>This week on Sunshine and Frank: Civilization: Beyond Earth is announced, Crytek has financial trouble, a former Valve contractor posts a pessimistic view of the coming VR trend; we discuss Valiant Hearts, the PC graphics arms race, augmented reality and driving, the decline of online gaming communites, and more.
+
+			The crew: Matt, Kurt, Kaia, Chris</description>
+			<itunes:subtitle>Crytek, VR, "social" gaming, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e09_TwoDollarCardboard.mp3" length="48940355" type="audio/mpeg"/>
+			<guid>s01e09</guid>
+			<pubDate>Mon, 21 Jul 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:41:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 8   -->
+			<title>Bear Tactics</title>
+			<description>This week on Sunshine and Frank: a new Space Hulk game gets announced, Occulus acquire Carbon Design Group; we discuss the state of the Kinect, speedruns, simulator games, and more.
+
+			The crew: Matt, Kurt, Mike, Kaia</description>
+			<itunes:subtitle>Space Hulk, Kinect, simulator games, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e08_BearTactics.mp3" length="35440640" type="audio/mpeg"/>
+			<guid>s01e08</guid>
+			<pubDate>Mon, 14 Jul 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:13:06</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 7   -->
+			<title>A Very Obvious Skateboard Shaped Package</title>
+			<description>This week on Sunshine and Frank: Quebec cuts tax breaks for game studios, Watchdogs gets a graphics mod, the Steam Summer Sale arrives, we discuss E3 promises and our favorite horror games, and more.
+
+			The crew: Matt, Kurt, Mike</description>
+			<itunes:subtitle>Watchdogs, E3 promises, horror games, and more.</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e07_SkateboardShapedPackage.mp3" length="29659136" type="audio/mpeg"/>
+			<guid>s01e07</guid>
+			<pubDate>Mon, 23 Jun 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:01:03</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 6   -->
+			<title>You See That Mountain Over There? You Can Climb It.</title>
+			<description>This week on Sunshine and Frank we discuss the games we were most impressed with at E3.  Shadow of Mordor, The Division, Rainbow Six: Siege, Hyrule Warriors, the Halo Series, Evolve, and more.
+
+			The crew: Matt, Kurt, Chris, Kaia</description>
+			<itunes:subtitle>E3 2014</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e06_E3_2014.mp3" length="59842560" type="audio/mpeg"/>
+			<guid>s01e06</guid>
+			<pubDate>Mon, 16 Jun 2014 00:00:00 EST</pubDate>
+			<itunes:duration>2:03:56</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--  EPISODE 5   -->
+			<title>PrE3</title>
+			<description>This week on Sunshine and Frank we discuss Steam Early Access, before going into the games we are looking forward to seeing at the coming week's E3.</description>
+			<itunes:subtitle>Looking forward to E3</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/s01e05_PrE3.mp3" length="95453504" type="audio/mpeg"/>
+			<guid>s01e05</guid>
+			<pubDate>Mon, 9 Jun 2014 00:00:00 EST</pubDate>
+			<itunes:duration>49:11</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--    EPISODE 4   -->
+			<title>It Might be Your Mods</title>
+			<description>This week on Sunshine and Frank we talk about the recent Nintendo news on Youtube, Watchdogs and some old classics.</description>
+			<itunes:subtitle>Nintendo,Watchdogs,Halo </itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/ItmightbeyourMods.mp3" length="50484186" type="audio/mpeg"/>
+			<guid>s01e04</guid>
+			<pubDate>Mon, 2 Jun 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:34:39</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--    EPISODE 3    -->
+			<title>Earn Your Way</title>
+			<description>This week on Sunshine and Frank we talk about Titanfall, and Dark Souls 1 and 2.</description>
+			<itunes:subtitle>Titanfall, Dark Souls and more</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/EarnYourWay.mp3" length="47764306" type="audio/mpeg"/>
+			<guid>s01e03</guid>
+			<pubDate>Mon, 26 May 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:25:23</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--    EPISODE 2    -->
+			<title>People Want Big</title>
+			<description>This week on the Sunshine and Frank show we cover Star Citizen, Assassin's Creed (Spoilers), and the next Generation of Consoles.</description>
+			<itunes:subtitle>Star Citizen, Assassin Creed, Next Gen Consoules</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/PeopleWantBig.mp3" length="52240155" type="audio/mpeg"/>
+			<guid>s01e02</guid>
+			<pubDate>Mon, 19 May 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:41:21</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+
+
+		<item>  <!--    EPISODE 1    -->
+			<title>Our Little Podcast</title>
+			<description>This week on Sunshine and Frank, join Frank and the Crew as they discuss the latest updates on the Oculus, the current state of MMO's, and the future of the Star Wars franchise as a whole!</description>
+			<itunes:subtitle>Oculus, MMOs, Star Wars, and more</itunes:subtitle>
+			<itunes:image href="http://geeksinprogress.com/files/podcasts/cover.jpg"/>
+			<enclosure url="http://geeksinprogress.com/files/podcasts/1/sunshineAndFrankEp1.mp3" length="30891922" type="audio/mpeg"/>
+			<guid>s01e01</guid>
+			<pubDate>Sun, 11 May 2014 00:00:00 EST</pubDate>
+			<itunes:duration>1:04:21</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+	</channel>
+</rss>

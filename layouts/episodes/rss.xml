@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    <title>Arrested DevOps</title>
+    <link>{{ .Permalink }}</link>
+    <language>en-us</language>
+    <copyright>&#xA9; &amp; &#x2117; 2014 Sunshine and Frank</copyright>
+    <managingEditor>matt@sunshineandfrank.com (Matt)</managingEditor>
+    <webMaster>sunshineandfrank@mechinn.com (Michael Chinn)</webMaster>		<!-- Fearless leader! -->
+    <itunes:subtitle>Rise and shine with Frank and the nerds</itunes:subtitle>
+    <itunes:author>Sunshine and Frank</itunes:author>
+    <description>Join us each week for our podcast where we discuss recent news in gaming and game development, with tangents into the wider body of geek culture.</description>
+    <itunes:owner>
+        <itunes:name>Michael Chinn</itunes:name>
+        <itunes:email>apple@mechinn.com</itunes:email>
+    </itunes:owner>
+    <image>
+        <url>http://sunshineandfrank.com/files/podcasts/cover.jpg</url>
+        <title>The Sunshine and Frank Program</title>
+        <link>http://sunshineandfrank.com/</link>
+    </image>
+    <itunes:image href="http://sunshineandfrank.com/files/podcasts/cover.jpg"/>
+    <itunes:image href="http://sunshineandfrank.com/files/podcasts/cover.jpg"/>
+    <itunes:category text="Games &amp; Hobbies">
+        <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:category text="TV &amp; Film"/>
+    <itunes:category text="Games &amp; Hobbies">
+        <itunes:category text="Hobbies"/>
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    {{ range first 50 .Pages }}
+    {{ if eq .Type "episodes"}}
+    <item>
+      <title>{{ .Params.episode }} - {{ title .Title }}</title>
+      <itunes:author>{{ .Params.authors }}</itunes:author>
+      <itunes:summary><![CDATA[{{ .Description }}]></itunes:summary>
+      <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
+      <guid>{{ .Params.podcast }}</guid>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
+      <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
+    </item>
+    {{ end }}
+    {{ end }}
+  </channel>
+</rss>

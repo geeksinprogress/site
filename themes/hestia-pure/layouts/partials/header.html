@@ -1,0 +1,16 @@
+<header class="header">
+  {{ $isHomePage := eq .Title .Site.Title }}
+  {{ if $isHomePage }}
+  <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+  <img src="{{.Site.Params.headerImage}}"/>
+  {{ end }}
+  {{ if not $isHomePage }}
+  <div class="site-title"><a href="/">{{ .Site.Title }}</a></div>
+  {{ end }}
+  <p class="site-desc">{{ .Site.Params.description }}</p>
+  {{ if .Site.Params.googlecustomsearch }}
+  <div class="search">
+    <gcse:searchbox-only></gcse:searchbox-only>
+  </div>
+  {{ end }}
+</header>

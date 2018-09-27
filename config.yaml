@@ -1,0 +1,49 @@
+baseurl: "http://geeksinprogress.com/"
+languageCode: "en-us"
+title: "Geeks in Progress"
+theme: "hestia-pure"
+enableRobotsTXT: true
+metaDataFormat: "yaml"
+copyright: "Geeks in Progress - All Rights Reserved."
+menu:
+  main:
+  # - identifier: survey
+  #   name: Survey
+  #   pre: <i class='fa fa-pencil'></i>
+  #   url: http://survey.geeksinprogress.com
+  #   weight: -110
+  - identifier: podcast
+    name: Podcast Feed
+    pre: <i class='fa fa-podcast'></i>
+    url: http://rss.podcast.geeksinprogress.com
+    weight: -100
+  - identifier: itunes
+    name: iTunes
+    pre: <i class='fa fa-music'></i>
+    url: https://itunes.apple.com/us/podcast/geeks-in-progress/id879340637
+    weight: -100
+  - identifier: twitch
+    name: Twitch
+    pre: <i class="fa fa-twitch"></i>
+    url: http://www.twitch.tv/geeksinprogress
+  - identifier: youtube
+    name: Youtube
+    pre: <i class='fa fa-youtube'></i>
+    url: https://www.youtube.com/channel/UCozPYT-14-1Ow-RjV2_UqdQ
+  - identifier: facebook
+    name: Facebook
+    pre: <i class='fa fa-facebook'></i>
+    url: https://www.facebook.com/geeksnprogress
+  - identifier: twitter
+    name: Twitter
+    pre: <i class='fa fa-twitter'></i>
+    url: https://twitter.com/geeksnprogress
+  - identifier: google
+    name: Google+
+    pre: <i class='fa fa-google-plus'></i>
+    url: https://plus.google.com/u/0/b/110072198189386474789/110072198189386474789
+params:
+  description: "Join us biweekly for discussions on recent news in gaming, game development and geek culture."
+  keywords: "podcast"
+  image: /cover.jpg
+  headerImage: /banner.jpg
